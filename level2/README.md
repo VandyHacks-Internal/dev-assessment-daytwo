@@ -8,7 +8,7 @@ https://pokeapi.co/api/v2/pokemon/rayquaza/
 That specific URL will give you a JSON describing a bunch of details about a Pokémon called [Rayquaza](https://www.pokemon.com/us/pokedex/rayquaza).
 
 ## Question
-For this problem, you'll be provided a JSON array with the names of many Pokémon. Return a JSON array (with the same order) containg the weight (as returned by the API) of each of them. 
+For this problem, you'll be provided a JSON array with the names of many Pokémon. Return a JSON array (with the same order) containg the weight (as returned by the API) of each of them. Your array should be an array of numbers (ONLY numbers) that correspond to the weight (i.e. the i<sup>th</sup> position of your array should contain the weight of the Pokémon in the i<sup>th</sup> position of the input array).
 
 ## Answer Format
 The JSON array should be in this folder in a file called `pokemon.json`. 
